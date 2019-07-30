@@ -1,2 +1,0 @@
-# JogoAcertarNumeroComReactJS
-Created with CodeSandbox
